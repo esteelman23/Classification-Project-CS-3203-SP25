@@ -50,3 +50,7 @@ This project is licensed under the MIT License - see the `LICENSE` file for deta
 ### Help
 
 Please do not hesitate to reach out to contact any member of Group E if you have further questions about Classification. Thank you for using our product, and together, we hope to make the future of education brighter for everyone!
+
+### TESTING MY GIT SETUP - ETHAN
+
+This is a test
